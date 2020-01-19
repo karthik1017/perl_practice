@@ -1,0 +1,12 @@
+links:-
+
+https://stackoverflow.com/questions/3848360/how-can-i-implement-unix-grep-in-perl
+
+https://www.geeksforgeeks.org/use-of-print-and-say-in-perl/
+
+search about:-
+
+say
+qw
+perl construct <>
+Colab.research.google.com
